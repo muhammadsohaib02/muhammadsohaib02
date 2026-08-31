@@ -9,7 +9,7 @@ Hey pree, I am Muhammad Sohaib, a Software Engineering graduate specializing in 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/m.sohaib.355) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.sohaib.004/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-sohaib-1616ms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msohaib.se@gmail.com) [![portfolio]]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/m.sohaib.355) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.sohaib.004/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-sohaib-1616ms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msohaib.se@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://msohaib.me)
 
 # 💻 Tech Stack:
