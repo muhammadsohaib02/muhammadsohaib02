@@ -1,7 +1,11 @@
 # 💫 About Me:
-Software Engineering Graduate | AI & Computer Vision Specialist<br>
-I am a software engineer who uses data and technology to solve complex problems and uncover clear insights. I specialize in Artificial Intelligence, Machine Learning, and Computer Vision. I focus on building smart, reliable systems, from training deep learning models to processing real-time data.
-My main goal is to connect advanced AI models with strong web backends, turning complex algorithms into practical, scalable software that solves real-world challenges. I am always eager to master new technologies and build innovative tools that make a meaningful impact.
+Hey pree, I am Muhammad Sohaib, a Software Engineering graduate specializing in AI, Machine Learning, and Computer Vision.
+
+* 🔭 **I’m currently working on** integrating deep learning models into robust web backends.
+* 🌱 **I’m currently learning** advanced model optimization and foreign languages.
+* 👯 **I’m looking to collaborate on** machine learning and open-source Python projects.
+* 💬 **Ask me about** Python, TensorFlow, OpenCV, and Django/FastAPI.
+* ⚡ **Fun fact:** I enjoy caring for indoor lucky bamboo plants.
 
 
 ## 🌐 Socials:
