@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Graduate | AI & Computer Vision Specialist
+Software Engineering Graduate | AI & Computer Vision Specialist<br>
 I am a software engineer who uses data and technology to solve complex problems and uncover clear insights. I specialize in Artificial Intelligence, Machine Learning, and Computer Vision. I focus on building smart, reliable systems, from training deep learning models to processing real-time data.
 My main goal is to connect advanced AI models with strong web backends, turning complex algorithms into practical, scalable software that solves real-world challenges. I am always eager to master new technologies and build innovative tools that make a meaningful impact.
 
